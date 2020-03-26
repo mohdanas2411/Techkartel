@@ -1,2 +1,1 @@
-# TechKartel
-# aaa
+# Techkartel
